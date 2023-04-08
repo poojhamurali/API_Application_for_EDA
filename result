@@ -1,0 +1,13 @@
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>EDA result</title>
+  </head>
+  <body>
+    <div class="table-users">
+   <div class="header">The result of the given data</div>
+
+      {{result}}
+  </body>
+</html>
